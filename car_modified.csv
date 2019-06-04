@@ -1,0 +1,100 @@
+,Age,Profession,Marrital Status,Education,No of Dependents,Personal loan,House Loan,Wife Working,Salary,Wife Salary(Lakhs),Total Salary(Lakhs),Make,Price(Lakhs)
+0,27,Salaried,Single,Post Graduate,0,Yes,No,No,8.0,0.0,8.0,i20,8.0
+1,35,Salaried,Married,Post Graduate,2,Yes,Yes,Yes,14.0,6.0,20.0,Ciaz,10.0
+2,45,Business,Married,Graduate,4,Yes,Yes,No,18.0,0.0,18.0,Duster,12.0
+3,41,Business,Married,Post Graduate,3,No,No,Yes,16.0,6.0,22.0,City,12.0
+4,31,Salaried,Married,Post Graduate,2,Yes,No,Yes,18.0,8.0,26.0,SUV,16.0
+5,28,Salaried,Married,Graduate,3,Yes,Yes,No,9.0,0.0,9.0,Baleno,7.0
+6,31,Salaried,Married,Graduate,4,No,No,Yes,12.0,6.0,18.0,City,12.0
+7,33,Business,Married,Post Graduate,4,No,No,No,14.0,0.0,14.0,Baleno,7.0
+8,34,Business,Married,Post Graduate,4,No,No,No,20.0,0.0,20.0,Verna,11.0
+9,34,Salaried,Married,Graduate,3,Yes,Yes,Yes,12.0,7.0,19.0,i20,8.0
+10,35,Salaried,Married,Post Graduate,4,No,No,Yes,13.0,7.0,20.0,SUV,16.0
+11,35,Salaried,Married,Graduate,4,Yes,Yes,m,14.0,0.0,14.0,Baleno,7.0
+12,29,Salaried,Married,Post Graduate,0,No,No,Yes,9.0,8.0,17.0,Verna,1.1
+13,30,Business,Single,Post Graduate,2,Yes,No,No,14.0,0.0,14.0,i20,8.0
+14,31,Business,Married,Graduate,3,Yes,Yes,Yes,9.0,4.0,13.0,Baleno,7.0
+15,49,Salaried,Married,Post Graduate,4,No,No,Yes,25.0,20.0,45.0,Luxuray,30.0
+16,26,Salaried,Single,Post Graduate,0,No,No,No,8.0,0.0,8.0,i20,8.0
+17,27,Salaried,Single,Graduate,0,Yes,No,Yes,8.0,0.0,8.0,Baleno,7.0
+18,29,Salaried,Single,Post Graduate,2,No,No,No,9.0,0.0,9.0,City,12.0
+19,30,Salaried,Married,Graduate,0,No,No,Yes,8.0,5.0,13.0,Baleno,7.0
+20,37,Salaried,Married,Post Graduate,3,No,Yes,Yes,17.0,8.0,25.0,City,12.0
+21,35,Business,Married,Graduate,3,No,Yes,Yes,11.0,8.0,19.0,i20,8.0
+22,36,Business,Married,Graduate,3,No,No,Yes,14.0,10.0,24.0,SUV,16.0
+23,35,Business,Married,Post Graduate,4,No,No,Yes,9.0,5.0,14.0,Baleno,7.0
+24,35,Salaried,Married,Graduate,3,Yes,No,Yes,14.0,6.0,20.0,Ciaz,11.0
+25,35,Salaried,Married,Graduate,2,No,No,Yes,18.0,11.0,29.0,SUV,16.0
+26,35,Salaried,Married,Post Graduate,4,Yes,Yes,No,13.0,0.0,13.0,Baleno,7.0
+27,36,Business,Married,Graduate,3,No,No,No,16.0,0.0,16.0,i20,8.0
+28,36,Salaried,Married,Post Graduate,3,Yes,Yes,Yes,17.0,9.0,26.0,Verna,12.0
+29,36,Salaried,Married,Post Graduate,2,No,No,Yes,18.0,9.0,27.0,SUV,16.0
+30,41,Business,Married,Graduate,3,No,No,No,11.0,0.0,11.0,Baleno,7.0
+31,41,Salaried,Married,Graduate,3,No,No,Yes,14.0,7.0,21.0,Duster,13.0
+32,41,Salaried,Married,Post Graduate,4,No,Yes,Yes,19.0,11.0,30.0,Creata,15.0
+33,43,Business,Married,Graduate,3,No,No,Yes,13.0,9.0,22.0,Creata,15.0
+34,42,Salaried,Married,Graduate,4,Yes,Yes,No,21.0,0.0,21.0,Ciaz,11.0
+35,42,Salaried,Married,Post Graduate,3,No,No,Yes,24.0,13.0,37.0,SUV,16.0
+36,29,Business,Married,Post Graduate,0,No,No,Yes,9.0,7.0,16.0,City,12.0
+37,30,Salaried,Married,Post Graduate,0,No,No,Yes,13.0,8.0,21.0,Creata,15.0
+38,30,Business,Single,Post Graduate,0,No,No,No,14.0,0.0,14.0,SUV,16.0
+39,31,Salaried,Married,Graduate,0,No,No,Yes,14.0,8.0,22.0,Ciaz,11.0
+40,31,Business,Married,Post Graduate,3,Yes,Yes,Yes,11.0,6.0,17.0,i20,8.0
+41,32,Business,Married,Post Graduate,0,No,No,No,14.0,0.0,14.0,Ciaz,11.0
+42,32,Salaried,Married,Graduate,0,No,No,Yes,16.0,8.0,24.0,SUV,16.0
+43,34,Salaried,Married,Post Graduate,3,No,No,Yes,14.0,9.0,23.0,Duster,13.0
+44,34,Salaried,Married,Post Graduate,2,Yes,Yes,No,16.0,0.0,16.0,i20,8.0
+45,34,Salaried,Married,Graduate,3,No,Yes,Yes,22.0,14.0,36.0,Creata,15.0
+46,36,Business,Married,Graduate,4,No,No,No,2.0,0.0,2.0,Ciaz,11.0
+47,36,Business,Married,Graduate,2,No,Yes,Yes,15.0,11.0,26.0,Duster,13.0
+48,36,Salaried,Married,Post Graduate,2,No,Yes,Yes,11.0,5.0,16.0,i20,8.0
+49,36,Salaried,Married,Graduate,3,Yes,No,Yes,22.0,9.0,31.0,Creata,15.0
+50,49,Business,Married,Post Graduate,4,No,No,No,20.0,0.0,20.0,Duster,13.0
+51,49,Salaried,Married,Post Graduate,3,No,No,Yes,25.0,18.0,43.0,SUV,16.0
+52,44,Salaried,Married,Post Graduate,4,No,No,No,27.0,0.0,27.0,SUV,16.0
+53,44,Business,Married,Post Graduate,3,No,No,Yes,20.0,18.0,38.0,Creata,15.0
+54,41,Salaried,Married,Graduate,2,No,No,Yes,29.0,18.0,47.0,Luxuray,30.0
+55,41,Salaried,Married,Post Graduate,3,Yes,Yes,No,31.0,0.0,31.0,Creata,15.0
+56,41,Salaried,Married,Graduate,3,No,No,No,26.0,0.0,26.0,Ciaz,11.0
+57,27,Salaried,Single,Post Graduate,0,No,No,No,11.0,0.0,11.0,Baleno,7.0
+58,27,Business,Single,Graduate,0,No,No,No,12.0,0.0,12.0,Ciaz,11.0
+59,28,Salaried,Single,Graduate,0,Yes,No,No,9.0,0.0,9.0,Baleno,7.0
+60,28,Salaried,Single,Post Graduate,0,No,No,No,14.0,0.0,14.0,City,12.0
+61,30,Salaried,Single,Post Graduate,0,No,No,No,15.0,0.0,15.0,Creata,15.0
+62,31,Business,Single,Graduate,0,No,No,No,20.0,0.0,20.0,SUV,15.0
+63,31,Salaried,Married,Post Graduate,3,Yes,Yes,No,18.0,0.0,18.0,Baleno,7.0
+64,31,Salaried,Married,Graduate,2,No,Yes,Yes,14.0,7.0,21.0,Ciaz,11.0
+65,39,Business,Married,Post Graduate,3,No,No,No,16.0,0.0,16.0,Baleno,7.0
+66,39,Business,Married,Graduate,2,Yes,Yes,Yes,22.0,14.0,36.0,Creata,15.0
+67,39,Salaried,Married,Post Graduate,2,No,No,No,19.0,0.0,19.0,City,12.0
+68,39,Salaried,Married,Post Graduate,2,Yes,Yes,Yes,27.0,13.0,40.0,Creata,15.0
+69,37,Business,Married,Graduate,3,No,No,No,17.0,0.0,17.0,Verna,12.0
+70,37,Business,Married,Post Graduate,2,No,No,Yes,14.0,13.0,27.0,Duster,15.0
+71,37,Salaried,Married,Post Graduate,2,No,Yes,Yes,19.0,13.0,32.0,SUV,16.0
+72,37,Salaried,Married,Graduate,2,No,No,No,13.0,0.0,13.0,Baleno,7.0
+73,35,Salaried,Married,Post Graduate,0,No,No,Yes,14.0,11.0,25.0,SUV,16.0
+74,36,Business,Married,Graduate,0,No,No,Yes,13.0,7.0,20.0,City,12.0
+75,36,Salaried,Married,Post Graduate,2,No,No,Yes,23.0,13.0,36.0,Creata,15.0
+76,36,Business,Married,Post Graduate,2,Yes,Yes,No,19.0,0.0,19.0,i20,8.0
+77,36,Business,Married,Graduate,3,No,Yes,Yes,18.0,11.0,29.0,SUV,16.0
+78,44,Salaried,Married,Post Graduate,3,No,No,No,31.0,0.0,31.0,Creata,15.0
+79,45,Salaried,Married,Post Graduate,2,No,Yes,Yes,27.0,18.0,45.0,SUV,16.0
+80,46,Salaried,Married,Graduate,3,Yes,Yes,No,21.0,0.0,21.0,Baleno,8.0
+81,44,Business,Married,Graduate,2,No,No,Yes,31.0,21.0,52.0,SUV,16.0
+82,43,Salaried,Married,Post Graduate,3,Yes,Yes,No,24.0,0.0,24.0,Ciaz,11.0
+83,42,Salaried,Married,Post Graduate,2,No,Yes,No,29.0,0.0,29.0,Duster,13.0
+84,42,Salaried,Married,Graduate,3,Yes,Yes,No,27.0,0.0,27.0,i20,8.0
+85,42,Business,Married,Post Graduate,3,Yes,Yes,No,18.0,0.0,18.0,Baleno,7.0
+86,29,Business,Single,Graduate,0,Yes,No,No,11.0,0.0,11.0,Baleno,7.0
+87,33,Salaried,Married,Post Graduate,2,No,No,Yes,14.0,8.0,22.0,City,12.0
+88,34,Salaried,Married,Graduate,2,No,Yes,Yes,27.0,14.0,41.0,Creata,15.0
+89,34,Business,Married,Post Graduate,3,Yes,Yes,No,19.0,0.0,19.0,Baleno,7.0
+90,35,Salaried,Married,Graduate,2,No,No,No,14.0,0.0,14.0,i20,8.0
+91,36,Salaried,Married,Post Graduate,3,Yes,Yes,Yes,31.0,18.0,49.0,SUV,16.0
+92,37,Salaried,Married,Graduate,2,No,Yes,No,28.0,0.0,28.0,City,12.0
+93,27,Salaried,Single,Post Graduate,0,No,No,No,9.0,0.0,9.0,Baleno,7.0
+94,27,Business,Single,Graduate,0,No,No,No,24.0,0.0,24.0,SUV,16.0
+95,50,Salaried,Married,Post Graduate,3,No,No,Yes,38.0,13.0,51.0,SUV,16.0
+96,51,Business,Married,Graduate,2,Yes,Yes,No,22.0,0.0,22.0,Ciaz,11.0
+97,51,Salaried,Married,Post Graduate,2,No,No,Yes,27.0,13.0,40.0,Creata,15.0
+98,51,Salaried,Married,Post Graduate,2,Yes,Yes,No,22.0,0.0,22.0,Ciaz,11.0
